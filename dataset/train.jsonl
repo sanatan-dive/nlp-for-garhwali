@@ -1,0 +1,214 @@
+[
+  {
+    "instruction": "My name is Kamal.",
+    "output": "Myaar naam kamal cha."
+  },
+  {
+    "instruction": "How are you?",
+    "output": "Tu kan che?"
+  },
+  {
+    "instruction": "I am fine.",
+    "output": "Me theek choun."
+  },
+  {
+    "instruction": "Where do you live?",
+    "output": "Tu kakh rehndi?"
+  },
+  {
+    "instruction": "I live in Pushp Vihar opposite to Shiv Temple.",
+    "output": "Me shiv mandir ka saamani Pushp Vihar maa rau(n)du."
+  },
+  {
+    "instruction": "In which class do you read?",
+    "output": "Tu katug maa padhdi?"
+  },
+  {
+    "instruction": "I read in eleventh class.",
+    "output": "Me 11 maa."
+  },
+  {
+    "instruction": "What is the name of your school?",
+    "output": "Tumaari school ka naam kyaa cha?"
+  },
+  {
+    "instruction": "The name of my school is GIC Narayan Nagar.",
+    "output": "Meri school ka naam GIC Narayan Nagar cha."
+  },
+  {
+    "instruction": "How many brothers and sister do you have?",
+    "output": "Tyaar kathgaa bhaai-bainaa cha(n)?"
+  },
+  {
+    "instruction": "I have a younger brother and a elder sister.",
+    "output": "Myaar ek chotu bhai cha aur badi bhuli cha."
+  },
+  {
+    "instruction": "What are you doing these days?",
+    "output": "Ajkaal kya kani che tu?"
+  },
+  {
+    "instruction": "I am preparing for Civil Services Exams.",
+    "output": "Me Civil Services ka tyaari kanu chaun."
+  },
+  {
+    "instruction": "What did your father do?",
+    "output": "Tyaar pitaaji kakh kaam kardan?"
+  },
+  {
+    "instruction": "My father is serving Indian Army.",
+    "output": "Myaar pitaji faouj maa chan."
+  },
+  {
+    "instruction": "How is your grandfather feeling now?",
+    "output": "Tyaar daada ab kan cha?"
+  },
+  {
+    "instruction": "He is fine now.",
+    "output": "Woh ab theek chan."
+  },
+  {
+    "instruction": "Where in Uttaranchal are you from?",
+    "output": "Tu Uttaranchal maa(n) ka(n)kh rehndi?"
+  },
+  {
+    "instruction": "I am from Champawat in Kumaon.",
+    "output": "Me Kumaon bitik chaoun. Champawat naam cha myar gaon ka."
+  },
+  {
+    "instruction": "Had you ever been to Nainital?",
+    "output": "Tu kabhi Nainital gaye che?"
+  },
+  {
+    "instruction": "Yes, many times.",
+    "output": "Haan katkai baar."
+  },
+  {
+    "instruction": "Where is your village?",
+    "output": "Tyaar gaon kakh cha?"
+  },
+  {
+    "instruction": "My village is in Lohaghat. It is called Raushaal.",
+    "output": "Myaar gaon Lohaghat ka taraf cha. Naam cha Raushaal."
+  },
+  {
+    "instruction": "When did you last visited your village?",
+    "output": "Pichali baar gaon kab gaye tu?"
+  },
+  {
+    "instruction": "I visited last year in October.",
+    "output": "Me pichal saal October ma gaye chyai."
+  },
+  {
+    "instruction": "Do you have electricity in your village?",
+    "output": "Tumaar gaon ma bijali cha?"
+  },
+  {
+    "instruction": "No.",
+    "output": "Na yaar."
+  },
+  {
+    "instruction": "How many cows and goats do you have?",
+    "output": "Tyar kathga gor-bakhara chan?"
+  },
+  {
+    "instruction": "We have 2 cows and 5 goats.",
+    "output": "Myar dui gaur aur paanch bakhara chan."
+  },
+  {
+    "instruction": "How was the wheat crop last year?",
+    "output": "Geehoon ki fasal kan che pichal saal?"
+  },
+  {
+    "instruction": "Not too good. The standing crop was destroyed by the rain.",
+    "output": "Jada badhiya ni che. Barkhaa na saari khadi fasal barbaad kar dyai."
+  },
+  {
+    "instruction": "How was the rain in previous season?",
+    "output": "Barakhaa kan che pichal saal?"
+  },
+  {
+    "instruction": "My name is Kamal",
+    "output": "Myar naam kamal cha."
+  },
+  {
+    "instruction": "How are you?",
+    "output": "Tum kan chee?"
+  },
+  {
+    "instruction": "I am fine. How are you?",
+    "output": "Me theek chaun. Tu kan che?"
+  },
+  {
+    "instruction": "How are other members of the family?",
+    "output": "Ghar maa(n) aur log kan chan?"
+  },
+  {
+    "instruction": "They all are fine.",
+    "output": "Woo bhi sab theek chan."
+  },
+  {
+    "instruction": "What are you doing these days?",
+    "output": "Aajkal kya kanu che?"
+  },
+  {
+    "instruction": "I am teaching in a school.",
+    "output": "Me ek school maa(m) padhanoo chau(n)."
+  },
+  {
+    "instruction": "Where do you live?",
+    "output": "Tu kha(n)k rehandi?"
+  },
+  {
+    "instruction": "I live in Pushp Vihar near Saket",
+    "output": "Me saket ka bagal maa(n) pushp vihar maa(n)."
+  },
+  {
+    "instruction": "Who else lives with you?",
+    "output": "Tyar dagad aur ku ku rahndan?"
+  },
+  {
+    "instruction": "I live with my parents, younger sister, elder brother and bhabi.",
+    "output": "Me maji, pitaji, choti bhuli, bhai aur bhabhi dagad."
+  },
+  {
+    "instruction": "So your elder brother got married? When?",
+    "output": "O.. badu bhaai ka byoh kab hwaai?"
+  },
+  {
+    "instruction": "Last year.",
+    "output": "Pichal saal."
+  },
+  {
+    "instruction": "In which class is your sister studying?",
+    "output": "Bhuli kai class maa(n) padhni cha?"
+  },
+  {
+    "instruction": "She is studying in 11th class.",
+    "output": "Wa 11th ma cha."
+  },
+  {
+    "instruction": "What are doing this Sunday?",
+    "output": "Ye itvaar kun tu kyaa kani che?"
+  },
+  {
+    "instruction": "Nothing planned as such.",
+    "output": "Abhi ta kuch khaas ni cha."
+  },
+  {
+    "instruction": "Why don't you come to our home on Sunday?",
+    "output": "Tu myaar ghar kilai ni aie jandi itvaar kun?"
+  },
+  {
+    "instruction": "Everyone will be happy to see you after such a long time.",
+    "output": "Sab log khush whal twetai dekhi kan."
+  },
+  {
+    "instruction": "I myself want to see them all. I will try to come on Sunday",
+    "output": "Me khud bhi woon tai milnu cha(n)dhu. Theek cha me dekhud chaun itvaar kun"
+  },
+  {
+    "instruction": "Ok. I shall leave now.",
+    "output": "Theek cha. Ab me chaldu chau(n)."
+  }
+]
